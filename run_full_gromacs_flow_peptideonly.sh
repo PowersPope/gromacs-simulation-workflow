@@ -130,7 +130,7 @@ nvidia-smi --query-gpu=index,name,driver_version --format=csv,noheader
 ### or a more recent docker image using singularity.
 
 # module load gromacs/2021.5-gcc-11.4.0-cuda-11.8.0
-module load gromacs/2024.3-plumed-2.11.0
+module load gromacs/2024.3-plumed-2.11.0-cuda-12.4.1
 
 # Switched to using docker image of more recent gromacs version, due to old version
 # only seemingly being able to do one restraint at a time.
