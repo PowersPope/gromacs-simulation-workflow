@@ -19,3 +19,10 @@
 *.bak
 *.swp
 .DS_Store 
+*.tar.gz
+
+# Graphs
+*.png
+
+# SLURM
+*.out
