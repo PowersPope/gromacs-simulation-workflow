@@ -46,4 +46,3 @@ DispCorr                = EnerPres  ; account for cut-off vdW scheme
 gen_vel                 = no        ; Velocity generation is off 
 
 
-energygrps = PEPD p53
